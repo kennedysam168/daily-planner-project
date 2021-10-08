@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(247, 205, 150);
+}
+
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    text-decoration: underline;
+    margin-bottom: 0px;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+#currentDate {
+    font-size: 30px;
+}
+
+.time-block {
+    margin-bottom: 0px;
+}
+
+.hour {
+    font-size: larger;
+
+}
+
+textarea {
+    height: 60px;
+    width: 800px;
+    margin-top: auto;
+    margin-left: 65px;
+    margin-bottom: 0px;
+}
+
+button {
+    height: 50px;
+    width: 60px;
+    
+}
+
+.past {
+    background-color: red;
+}
+
+.present {
+    background-color: green;
+}
+
+.future {
+    background-color: rgb(130, 209, 255);
+}
